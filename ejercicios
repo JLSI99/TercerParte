@@ -1,0 +1,154 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/JLSI99/TercerParte/blob/main/ejercicios\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "def escribir():\n",
+        "    print(\"sabor de alberto\")"
+      ],
+      "metadata": {
+        "id": "xjk9ioETOLK3"
+      },
+      "execution_count": 4,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "escribir()"
+      ],
+      "metadata": {
+        "id": "npRMuhkjQQMI",
+        "outputId": "830643f3-05da-4094-ef3b-402006211141",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 5,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "sabor de alberto\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "numero1= 23\n",
+        "numero2=13"
+      ],
+      "metadata": {
+        "id": "FfrdCe73UeC_"
+      },
+      "execution_count": 6,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "sumar=numero1+numero2"
+      ],
+      "metadata": {
+        "id": "92to6NYcUhtV"
+      },
+      "execution_count": 7,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(sumar)"
+      ],
+      "metadata": {
+        "id": "trRR4xBnUn7Z",
+        "outputId": "9d581365-0782-4c72-8b8d-ad7fce58514d",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 8,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "36\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "resultado=int(input(\"cuantos años???\"))"
+      ],
+      "metadata": {
+        "id": "DBR8CEbghwcW",
+        "outputId": "96ac168d-836a-48f1-ee85-2c843d9858eb",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 12,
+      "outputs": [
+        {
+          "name": "stdout",
+          "output_type": "stream",
+          "text": [
+            "cuantos años???23\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(resultado)"
+      ],
+      "metadata": {
+        "id": "9hunwSOLiIy5",
+        "outputId": "b40565bd-4dc8-4f19-b201-a6543d714793",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 13,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "23\n"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "colab": {
+      "name": "Te damos la bienvenida a Colaboratory",
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "display_name": "Python 3",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 0
+}
